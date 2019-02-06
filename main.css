@@ -15,16 +15,20 @@ body{
     background-color:#000000;
 }
 #c1sec1{
-    background-color: #ff0000
-}
-#c1sec2{
-    background-color: #00ff00
-}
-#c1sec3{
-    background-color: #0000ff
-}
-/*CLASSES in css begin with a dot*/
-.size{
+    background-color: #ff0000;
     height: 100px;
     width: 500px;
 }
+#c1sec2{
+    background-color: #00ff00;
+    height: 100px;
+    width: 500px;
+}
+#c1sec3{
+    background-color: #0000ff;
+    height: 100px;
+    width: 500px;
+}
+/*CLASSES in css begin with a dot*/
+.class{}
+
